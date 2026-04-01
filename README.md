@@ -4,27 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+%2B+Laravel+Expert;Building+Modern+Desktop+%26+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
----
 
-## 🚀 About Me
-
-<!-- <table>
-<tr>
-<!-- <td>
-
-* 💻 Full Stack Developer
-* 🎓 Software Engineering Student
-* ⚡ Passionate about modern applications
-* 🌱 Always learning new technologies
-
-</td> -->
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=syedsahilshah1&show_icons=true&theme=tokyonight" />
-</td>
-</tr>
-</table> -->
-
----
 
 ## 🛠️ Languages - Frameworks - Tools
 
