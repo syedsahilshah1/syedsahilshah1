@@ -21,6 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsahilshah1&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
 ## 📊 Profile Views
 
