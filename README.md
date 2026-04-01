@@ -21,23 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsahilshah1&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syedsahilshah1&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/syedsahilshah1/syedsahilshah1/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📊 Profile Views
 
@@ -49,13 +32,7 @@
 
 ## 📫 Contact Me
 
-<p align="center">
-
-📧 [sahildev212@gmail.com](mailto:sahildev212@gmail.com)
-🔗 [www.linkedin.com/in/syed-sahil-shah-062a3b397](http://www.linkedin.com/in/syed-sahil-shah-062a3b397)
-
-</p>
-
----
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sahil-shah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahildev212@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsahilshah1)
 ⭐ *"Always learning, always building!"*
