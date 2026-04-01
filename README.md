@@ -4,24 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;MERN+%2B+Laravel+Expert;Building+Modern+Desktop+%26+Web+Apps;Always+Learning+New+Tech" />
 </p>
 
-
-
 ## 🛠️ Languages - Frameworks - Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,electron,nodejs,express,mongodb,mysql,php,laravel,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,electron,nodejs,express,mongodb,mysql,php,laravel,git,github,vscode" />
 </p>
-
----
-
-## 🔥 GitHub Stats / Streak / Languages
-
-<!-- GitHub Stats Section -->
-<!-- Total Contributions, Current Streak, Longest Streak -->
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedsahilshah1&show_icons=true&theme=dark)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsahilshah1&layout=compact&theme=dark)
 
 ---
 
@@ -35,7 +22,6 @@
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sahil-shah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahildev212@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sahil-shah)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahildev212@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/syedsahilshah1)
-⭐ *"Always learning, always building!"*
