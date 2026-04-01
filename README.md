@@ -10,14 +10,14 @@
 
 <table>
 <tr>
-<td>
+<!-- <td>
 
 * 💻 Full Stack Developer
 * 🎓 Software Engineering Student
 * ⚡ Passionate about modern applications
 * 🌱 Always learning new technologies
 
-</td>
+</td> -->
 <td>
 <img src="https://github-readme-stats.vercel.app/api?username=syedsahilshah1&show_icons=true&theme=tokyonight" />
 </td>
