@@ -16,10 +16,12 @@
 
 ## 🔥 GitHub Stats / Streak / Languages
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsahilshah1&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsahilshah1&layout=compact&theme=tokyonight" />
-</p>
+<!-- GitHub Stats Section -->
+<!-- Total Contributions, Current Streak, Longest Streak -->
+![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedsahilshah1&show_icons=true&theme=dark)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsahilshah1&layout=compact&theme=dark)
 
 ---
 
