@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<table>
+<!-- <table>
 <tr>
 <!-- <td>
 
@@ -22,7 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=syedsahilshah1&show_icons=true&theme=tokyonight" />
 </td>
 </tr>
-</table>
+</table> -->
 
 ---
 
