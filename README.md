@@ -12,14 +12,6 @@
 
 ---
 
-## 📊 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedsahilshah1&style=for-the-badge&color=blue" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-sahil-shah)  
